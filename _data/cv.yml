@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Marlein Geraeds
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th August 1955
     - name: Languages
-      value: English, German
+      value: English, Dutch
 
 - title: Education
   type: time_table
