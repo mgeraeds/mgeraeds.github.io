@@ -41,7 +41,7 @@
       "endDate": "2020",
       "score": "cum laude",
       "courses": [
-        "Stratified Flows", "Physical Oceanography", "Computational Modelling of Flow and Transport", "Computational Hydraulics, Physics of the Earth and Atmosphere", "Building with Nature in Hydraulic Engineering"
+        "Stratified Flows", "Physical Oceanography", "Computational Modelling of Flow and Transport", "Computational Hydraulics", "Physics of the Earth and Atmosphere", "Building with Nature in Hydraulic Engineering"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "studyType": "Bachelor's degree",
       "startDate": "2012",
       "endDate": "2016",
-      "courses": ["Analysis I & III, Differential Equations, Numerical Mathematics, Fluid Mechanics I&II, Soil Mechanics I&II, Construction Mechanics I, II and III, Design of Constructions and Foundations, Concrete and Steel Structures, Dynamics of Structures, Water Management Research, Technology, Innovation and Ethics"]
+      "courses": ["Analysis I & III", "Differential Equations", "Numerical Mathematics", "Fluid Mechanics I&II", "Soil Mechanics I&II", "Construction Mechanics I, II and III", "Design of Constructions and Foundations", "Concrete and Steel Structures", "Dynamics of Structures", "Water Management Research", "Technology, Innovation and Ethics"]
     },
     {
       "institution": "Lyceum Schöndeln",
