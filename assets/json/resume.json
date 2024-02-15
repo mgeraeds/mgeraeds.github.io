@@ -40,7 +40,7 @@
       "startDate": "2017",
       "endDate": "2020",
       "score": "cum laude",
-      "courses": ["Stratified Flows", "Physical Oceanography", "Computational Modelling of Flow and Transport", "Computational Hydraulics", "Physics of the Earth and Atmosphere", "Building with Nature in Hydraulic Engineering"]
+      "courses": ["Stratified Flows, Physical Oceanography, Computational Modelling of Flow and Transport, Computational Hydraulics, Physics of the Earth and Atmosphere, Building with Nature in Hydraulic Engineering"]
     },
     {
       "institution": "Delft University of Technology",
@@ -50,7 +50,7 @@
       "studyType": "Bachelor's degree",
       "startDate": "2012",
       "endDate": "2016",
-      "courses": ["Analysis I-III", "Differential Equations", "Numerical Mathematics", "Fluid Mechanics I and II", "Soil Mechanics I and II", "Construction Mechanics I-III", "Design of Constructions and Foundations", "Concrete and Steel Structures", "Dynamics of Structures", "Water Management Research", "Technology, Innovation and Ethics"]
+      "courses": ["Analysis I and III, Differential Equations, Numerical Mathematics, Fluid Mechanics I and II, Soil Mechanics I and II, Construction Mechanics I-III, Design of Constructions and Foundations, Concrete and Steel Structures, Dynamics of Structures, Water Management Research, Technology Innovation and Ethics"]
     }
   ],
   "publications": [
