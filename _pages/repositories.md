@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description: An overview of my currently active repositories and repositories that I have contributed to.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## GitHub users
