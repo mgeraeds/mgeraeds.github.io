@@ -40,7 +40,9 @@
       "startDate": "2017",
       "endDate": "2020",
       "score": "cum laude",
-      "courses": ["Stratified Flows, Physical Oceanography, Computational Modelling of Flow and Transport, Computational Hydraulics, Physics of the Earth and Atmosphere, Building with Nature in Hydraulic Engineering"]
+      "courses": [
+        "Stratified Flows", "Physical Oceanography", "Computational Modelling of Flow and Transport", "Computational Hydraulics, Physics of the Earth and Atmosphere", "Building with Nature in Hydraulic Engineering"
+      ]
     },
     {
       "institution": "Delft University of Technology",
